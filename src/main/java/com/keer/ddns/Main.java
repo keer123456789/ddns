@@ -69,12 +69,12 @@ public class Main {
                 if (jsonObject.containsKey("ALI_AK")) {
                     AK = jsonObject.getString("ALI_AK");
                 } else {
-                    AK = "LTAI5tPJVG6kVVBVWnrmdUMH";
+                    AK = "LT******************dUMH";
                 }
                 if (jsonObject.containsKey("ALI_SK")) {
                     SK = jsonObject.getString("ALI_SK");
                 } else {
-                    SK = "nPu68NsWodbvcHDNjZpbZQSI1H5j1a";
+                    SK = "nPu68N*********bZQSI1H5j1a";
                 }
                 if (jsonObject.containsKey("DOMAIN")) {
                     DOMAIN = jsonObject.getString("DOMAIN");
